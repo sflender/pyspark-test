@@ -1,5 +1,5 @@
-#Testing pyspark on Mac OSX  
-##Installation guide:  
+# Testing pyspark on Mac OSX  
+## Installation guide:  
 - install anaconda  
 - install Java 1.8 development toolkit (I had issues with Java 10 on my Mac)  
 - put anaconda, spark, and java 1.8 into your environment (.bashrc):
